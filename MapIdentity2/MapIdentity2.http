@@ -1,0 +1,4 @@
+﻿@MapIdentity2_HostAddress = https://localhost:7253
+
+GET {{MapIdentity2_HostAddress}}/api/foo
+Authorization: Bearer XXXX
